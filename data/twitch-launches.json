@@ -1,0 +1,75 @@
+[
+  {
+    "id": "launch-stories-2025",
+    "date": "2025-06-01",
+    "name": "Twitch Stories",
+    "category": "community",
+    "description": "Twitch launched Stories — short video updates creators can share between streams to stay connected with viewers",
+    "sourceUrl": "https://blog.twitch.tv/en/2025/06/01/introducing-stories-on-twitch/",
+    "relatedThemes": [
+      "community-tools",
+      "viewer-retention"
+    ]
+  },
+  {
+    "id": "launch-discovery-feed-2025",
+    "date": "2025-09-15",
+    "name": "Discovery Feed Redesign",
+    "category": "discovery",
+    "description": "Revamped the homepage feed with personalized recommendations based on viewing history and followed channels",
+    "sourceUrl": "https://blog.twitch.tv/en/2025/09/15/discover-more-on-twitch/",
+    "relatedThemes": [
+      "discovery",
+      "viewer-retention"
+    ]
+  },
+  {
+    "id": "launch-notif-preferences-2025",
+    "date": "2025-11-01",
+    "name": "Notification Preferences Update",
+    "category": "notifications",
+    "description": "Added granular notification controls allowing per-channel notification customization",
+    "sourceUrl": "https://blog.twitch.tv/en/2025/11/01/notification-updates/",
+    "relatedThemes": [
+      "notif-settings",
+      "notif-fatigue",
+      "notif-missing"
+    ]
+  },
+  {
+    "id": "launch-clips-discovery-2026",
+    "date": "2026-01-20",
+    "name": "Clips in Discovery",
+    "category": "discovery",
+    "description": "Clips now surface in the discovery feed, helping viewers find new streamers through short highlights",
+    "sourceUrl": "https://blog.twitch.tv/en/2026/01/20/clips-discovery/",
+    "relatedThemes": [
+      "discovery",
+      "community-tools"
+    ]
+  },
+  {
+    "id": "launch-mobile-redesign-2026",
+    "date": "2026-02-15",
+    "name": "Mobile App Redesign",
+    "category": "mobile",
+    "description": "Major mobile app update with improved navigation, faster loading, and redesigned notification center",
+    "sourceUrl": "https://blog.twitch.tv/en/2026/02/15/mobile-redesign/",
+    "relatedThemes": [
+      "notif-mobile",
+      "discovery"
+    ]
+  },
+  {
+    "id": "launch-community-goals-2026",
+    "date": "2026-03-01",
+    "name": "Community Goals",
+    "category": "community",
+    "description": "New feature allowing streamers to set community goals (subscriber milestones, watch hours) with shared progress tracking",
+    "sourceUrl": "https://blog.twitch.tv/en/2026/03/01/community-goals/",
+    "relatedThemes": [
+      "community-tools",
+      "creator-retention"
+    ]
+  }
+]

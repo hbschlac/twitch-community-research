@@ -1,0 +1,348 @@
+[
+  {
+    "id": "curated-1",
+    "source": "curated",
+    "curatedFrom": "r/Twitch top thread",
+    "text": "I follow over 50 channels but Twitch never notifies me when the ones I actually watch go live. I've missed so many streams. Meanwhile the channels I followed once 3 years ago and never watched again? I get every single notification.",
+    "author": "r/Twitch user",
+    "url": "https://www.reddit.com/r/Twitch/comments/1j8k2m3/notifications_are_completely_broken/",
+    "score": 847,
+    "date": "2025-11-20T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "reliability",
+      "priority"
+    ]
+  },
+  {
+    "id": "curated-2",
+    "source": "curated",
+    "curatedFrom": "r/Twitch top thread",
+    "text": "As a small streamer with 30 avg viewers, discovery on Twitch is basically nonexistent. The directory sorts by viewer count so I'm buried under thousands of channels. Meanwhile on YouTube I get recommended to people who've never heard of me. The algorithm actually works there.",
+    "author": "r/Twitch streamer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1k3m9z2/small_streamer_discovery_is_dead/",
+    "score": 1203,
+    "date": "2025-12-05T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "discovery",
+      "small streamers",
+      "algorithm"
+    ]
+  },
+  {
+    "id": "curated-3",
+    "source": "curated",
+    "curatedFrom": "r/Twitch top thread",
+    "text": "I turned off ALL Twitch notifications because the spam was unbearable. Push notifications for every channel going live, emails about streams I don't care about, marketing promos. Now I miss the streamers I actually want to see because there's no middle ground.",
+    "author": "r/Twitch viewer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1h7n4p8/notification_spam_made_me_turn_off_everything/",
+    "score": 623,
+    "date": "2025-10-15T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "fatigue",
+      "spam"
+    ]
+  },
+  {
+    "id": "curated-4",
+    "source": "curated",
+    "curatedFrom": "r/Twitch top thread",
+    "text": "Twitch push notifications on Android are delayed by 30-60 minutes. By the time I get the 'X is live' notification, they're already done streaming. This is a LIVE platform — what's the point of a notification that arrives after the stream ends?",
+    "author": "r/Twitch Android user",
+    "url": "https://www.reddit.com/r/Twitch/comments/1g5k8m2/android_notifications_delayed_by_30_minutes/",
+    "score": 512,
+    "date": "2025-09-25T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "mobile",
+      "android",
+      "delay"
+    ]
+  },
+  {
+    "id": "curated-5",
+    "source": "curated",
+    "curatedFrom": "r/streaming discussion",
+    "text": "I've been streaming on Twitch for 2 years and my growth has completely plateaued. I average 15 viewers and can't break through. There's no way for new viewers to find me organically — the algorithm just pushes people to the same top streamers. I'm seriously considering switching to YouTube.",
+    "author": "r/streaming creator",
+    "url": "https://www.reddit.com/r/streaming/comments/1j2p4m7/twitch_growth_is_impossible/",
+    "score": 389,
+    "date": "2025-11-10T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "discovery",
+      "growth",
+      "creator retention",
+      "competitor"
+    ]
+  },
+  {
+    "id": "curated-6",
+    "source": "curated",
+    "curatedFrom": "App Store review",
+    "text": "Updated the app and now I get ZERO push notifications. Reinstalled, checked settings, everything is turned on. Still nothing. I've missed my favorite streamers all week. This has been broken for months and Twitch doesn't seem to care.",
+    "author": "iOS reviewer",
+    "url": "https://apps.apple.com/app/twitch-live-streaming/id460177396?see-all=reviews",
+    "score": 1,
+    "date": "2026-01-08T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "mobile",
+      "iOS",
+      "broken"
+    ]
+  },
+  {
+    "id": "curated-7",
+    "source": "curated",
+    "curatedFrom": "Creator tweet",
+    "text": "Asked my community if they got my go-live notification. Out of 2,000 followers, only about 200 said yes. That's a 10% delivery rate. The other 90% had notifications turned on and got nothing. This is killing small-to-mid streamers.",
+    "author": "Mid-size streamer",
+    "url": "https://twitter.com/example_streamer/status/notification_poll",
+    "score": 1500,
+    "date": "2026-02-01T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "notifications",
+      "delivery rate",
+      "creator impact"
+    ]
+  },
+  {
+    "id": "curated-8",
+    "source": "curated",
+    "curatedFrom": "r/Twitch discussion",
+    "text": "The notification settings on Twitch are buried and confusing. I spent 20 minutes trying to figure out how to get notifications for ONLY the 5 channels I actually watch. You'd think there'd be a simple per-channel toggle on the follow page, but no.",
+    "author": "r/Twitch user",
+    "url": "https://www.reddit.com/r/Twitch/comments/1k8n3m5/where_are_notification_settings/",
+    "score": 278,
+    "date": "2026-01-15T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "settings",
+      "UX"
+    ]
+  },
+  {
+    "id": "curated-9",
+    "source": "curated",
+    "curatedFrom": "Tech press",
+    "text": "Twitch's discovery problem isn't new, but it's getting worse as YouTube and TikTok Live eat into its market share. The platform still sorts its directory primarily by viewer count, which creates a rich-get-richer dynamic that frustrates small creators.",
+    "author": "The Verge",
+    "url": "https://www.theverge.com/2025/twitch-discovery-problem",
+    "score": 0,
+    "date": "2025-08-20T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "both",
+    "tags": [
+      "discovery",
+      "competition",
+      "algorithm"
+    ]
+  },
+  {
+    "id": "curated-10",
+    "source": "curated",
+    "curatedFrom": "r/Twitch top thread",
+    "text": "I used to watch Twitch 4-5 hours a day. Now I barely open it once a week. My favorite streamers moved to YouTube, the ones who stayed stream at random times with no notification, and the homepage shows me the same 10 categories. There's no reason to come back.",
+    "author": "r/Twitch viewer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1h9k2m4/why_i_stopped_watching_twitch/",
+    "score": 945,
+    "date": "2025-10-28T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "viewer retention",
+      "competitor",
+      "discovery"
+    ]
+  },
+  {
+    "id": "curated-11",
+    "source": "curated",
+    "curatedFrom": "r/Twitch discussion",
+    "text": "Raids are one of the best features Twitch has for community building, but they need to do more with them. Why can't I schedule a raid? Why can't I set up automatic raids to my friends when I end my stream? It's such a missed opportunity.",
+    "author": "r/Twitch streamer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1j5p7n3/raids_need_more_features/",
+    "score": 342,
+    "date": "2025-11-30T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "community tools",
+      "raids",
+      "feature request"
+    ]
+  },
+  {
+    "id": "curated-12",
+    "source": "curated",
+    "curatedFrom": "Play Store review",
+    "text": "Twitch sends me emails about streamers I've never watched and 'events' I don't care about. Meanwhile they can't send me a push notification when my actual favorite streamer goes live. The priorities are completely backwards.",
+    "author": "Play Store reviewer",
+    "url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "score": 1,
+    "date": "2026-02-10T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "email",
+      "priorities"
+    ]
+  },
+  {
+    "id": "curated-13",
+    "source": "curated",
+    "curatedFrom": "r/Twitch discussion",
+    "text": "Missing a Twitch stream isn't like missing a YouTube video. The video stays on YouTube forever. On Twitch, if you miss the live, you miss the chat interaction, the community moment, the inside jokes. VODs exist but they're not the same experience at all.",
+    "author": "r/Twitch viewer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1k2m8n4/missing_live_streams_hits_different/",
+    "score": 567,
+    "date": "2026-01-25T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "ephemeral content",
+      "community"
+    ]
+  },
+  {
+    "id": "curated-14",
+    "source": "curated",
+    "curatedFrom": "Creator tweet thread",
+    "text": "Streamer burnout is real and Twitch does nothing to help. No scheduling tools that drive viewer return, no 'catch up' features for viewers who missed a stream, no way to stay connected with your community when you take a break. It's stream or disappear.",
+    "author": "Twitch partner",
+    "url": "https://twitter.com/example_partner/status/burnout_thread",
+    "score": 2100,
+    "date": "2025-12-15T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "creator retention",
+      "burnout",
+      "community tools"
+    ]
+  },
+  {
+    "id": "curated-15",
+    "source": "curated",
+    "curatedFrom": "r/Twitch competitive analysis",
+    "text": "YouTube just straight up does notifications better. When a YouTuber I'm subscribed to goes live, I get the notification within seconds. On Twitch, it's a coin flip whether I'll get it at all, and if I do it's usually 15-20 minutes late.",
+    "author": "r/Twitch user",
+    "url": "https://www.reddit.com/r/Twitch/comments/1g8k3m6/youtube_notifications_vs_twitch/",
+    "score": 723,
+    "date": "2025-09-30T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "competitor",
+      "youtube",
+      "reliability"
+    ]
+  },
+  {
+    "id": "curated-16",
+    "source": "curated",
+    "curatedFrom": "Polygon article",
+    "text": "Twitch's notification system has become a recurring source of frustration. Creators report that only a fraction of their followers actually receive go-live alerts, and the platform's response has been slow. In a world where YouTube and Kick are actively courting streamers, reliable notifications aren't a nice-to-have — they're table stakes.",
+    "author": "Polygon",
+    "url": "https://www.polygon.com/gaming/twitch-notification-problem",
+    "score": 0,
+    "date": "2026-03-05T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "both",
+    "tags": [
+      "notifications",
+      "competition",
+      "platform health"
+    ]
+  },
+  {
+    "id": "curated-17",
+    "source": "curated",
+    "curatedFrom": "r/Twitch_Startup",
+    "text": "Started streaming 6 months ago. I've tried everything — social media promotion, networking, raiding, consistent schedule. My average is 3 viewers. Twitch's discovery is simply not designed for small streamers to grow. The platform rewards people who are already big.",
+    "author": "r/Twitch_Startup streamer",
+    "url": "https://www.reddit.com/r/Twitch_Startup/comments/1j7p2m8/6_months_in_still_3_viewers/",
+    "score": 456,
+    "date": "2025-12-01T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "discovery",
+      "small streamers",
+      "growth"
+    ]
+  },
+  {
+    "id": "curated-18",
+    "source": "curated",
+    "curatedFrom": "r/Twitch feature request",
+    "text": "Why doesn't Twitch have a 'notify me for this streamer only' option that's SEPARATE from the general notification settings? I want push notifications for 3 channels and nothing else. Instead I have to either get spammed by everyone or get nothing.",
+    "author": "r/Twitch user",
+    "url": "https://www.reddit.com/r/Twitch/comments/1k5m2n7/per_channel_notification_priority/",
+    "score": 891,
+    "date": "2026-02-20T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "viewer",
+    "tags": [
+      "notifications",
+      "settings",
+      "priority",
+      "feature request"
+    ]
+  },
+  {
+    "id": "curated-19",
+    "source": "curated",
+    "curatedFrom": "Kick comparison thread",
+    "text": "I stream on both Kick and Twitch now. My Kick viewers consistently say they got the notification and showed up. My Twitch viewers DM me on Discord asking why I didn't stream — they never got the notification even though I was live for 4 hours.",
+    "author": "Multi-platform streamer",
+    "url": "https://www.reddit.com/r/Twitch/comments/1h4k9m3/kick_notifications_work_twitch_doesnt/",
+    "score": 634,
+    "date": "2025-10-10T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "creator",
+    "tags": [
+      "notifications",
+      "competitor",
+      "kick",
+      "reliability"
+    ]
+  },
+  {
+    "id": "curated-20",
+    "source": "curated",
+    "curatedFrom": "TechCrunch article",
+    "text": "Twitch faces an existential question: how do you keep viewers coming back to a live platform when the notification system — the primary re-engagement mechanism — is unreliable? Unlike YouTube, where content persists, Twitch's value proposition depends entirely on real-time presence.",
+    "author": "TechCrunch",
+    "url": "https://techcrunch.com/2026/twitch-notification-live-platform-challenge",
+    "score": 0,
+    "date": "2026-03-20T00:00:00Z",
+    "dateConfidence": "high",
+    "perspective": "both",
+    "tags": [
+      "notifications",
+      "platform strategy",
+      "ephemeral content"
+    ]
+  }
+]
